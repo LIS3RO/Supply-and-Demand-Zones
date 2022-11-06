@@ -1,2 +1,2 @@
-# Supply-and-Demand-Zone
+# Supply-and-Demand-Zones
 Detecting support and resistance on securities.
