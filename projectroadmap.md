@@ -1,3 +1,4 @@
+#Project Roadmap
 - [ ] Choose a stock and import historical data.
 - [ ] Visualize the data to assist in assessing the programs accuracy.
 - [ ] Create a system that identifies levels of support and resistance.
