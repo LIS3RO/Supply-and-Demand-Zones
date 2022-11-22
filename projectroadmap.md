@@ -14,7 +14,8 @@
 - [ ] Test how well the levels of support and resistance work.
 
 <h4>Challenges</h4>
-- [ ] Predicting future zones in real-time or in the future.
+
+- [ ] [ ] Predicting future zones in real-time or in the future.
 - [ ] Confirmation Bias (using price patterns, time and sales and volume).
 
 
